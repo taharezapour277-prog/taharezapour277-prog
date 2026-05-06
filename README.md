@@ -59,11 +59,11 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=taharezapour&theme=radical" alt="taharezapour" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=taharezapour277-prog&theme=radical" alt="taharezapour" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=taharezapour&show_icons=true&locale=en&layout=compact&theme=radical" alt="taharezapour" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=taharezapour277-prog&show_icons=true&locale=en&layout=compact&theme=radical" alt="taharezapour" />
 </p>
 
 ---
