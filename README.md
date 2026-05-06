@@ -55,7 +55,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=taharezapour&show_icons=true&theme=radical" alt="taharezapour" />
+  <img src="https://github-readme-stats.vercel.app/api?username=taharezapour277-prog&show_icons=true&theme=radical" alt="taharezapour" />
 </p>
 
 <p align="center">
